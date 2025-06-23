@@ -1,0 +1,12 @@
+body {
+  background: #121212;
+  color: white;
+  font-family: sans-serif;
+  padding: 20px;
+}
+a {
+  color: cyan;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 10px;
+}

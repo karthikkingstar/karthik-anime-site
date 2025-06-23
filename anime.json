@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sample_ep1",
+    "title": "Sample Episode 1",
+    "poster": "https://via.placeholder.com/300x400.png?text=Sample+Poster",
+    "language": [
+      "English"
+    ],
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Episode 1",
+        "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+      }
+    ]
+  }
+]
