@@ -13,5 +13,20 @@
         "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
       }
     ]
+  },
+  {
+    "id": "fatloss",
+    "title": "Fatloss",
+    "poster": "https://api.telegram.org/file/bot8093487530:AAEFdiCgvZ_TjumtQ8x5BJt-VbtfNBbabq4/photos/file_4.jpg",
+    "language": [
+      "Unknown"
+    ],
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Episode 1",
+        "video": "https://api.telegram.org/file/bot8093487530:AAEFdiCgvZ_TjumtQ8x5BJt-VbtfNBbabq4/videos/file_3.mp4"
+      }
+    ]
   }
 ]
